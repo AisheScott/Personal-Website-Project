@@ -4,8 +4,13 @@ h1 {
     font-weight: 500;
     background-color: lightseagreen;
     text-decoration-color: white;
+    text-align: right;
 }
 
 h2 {
     font-weight: bolder;
+    text-align: center;
+}
+h3 {
+    text-align: center;
 }
